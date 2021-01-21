@@ -12,7 +12,7 @@ port will be listend on 1337, when use in flutter, remember to use the local **I
 
 ## POSTS
 
-`http://localhost:1337/posts/` api link is for the vue3-router-blog project
+`http://localhost:1337/posts/` api link is for the [vue3-router-blog](https://github.com/djdeo/vue3-router-blog) project
 
 ## API go `publc`
 
